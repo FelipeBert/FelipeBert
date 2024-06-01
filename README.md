@@ -6,7 +6,7 @@
 
 - 🚀 Explorando novas tecnologias e desenvolvendo soluções e funcionalidades back-end.
 - 🎓 Estudando Engenharia da Computação na UFRPE.
-- 🌱 Aprendendo mais sobre Docker e Cloud.
+- 🌱 Aprendendo mais sobre Docker, IA Generativa, Cloud.
 
 ## Minhas Skills
 
@@ -47,6 +47,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Felipe%20Bertulino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-bertulino-654445305/)](https://www.linkedin.com/in/felipe-bertulino-654445305/)
+[![Linkedin](https://img.shields.io/badge/-Felipe%20Bertulino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/felipebertulino/)](https://www.linkedin.com/in/felipebertulino/)
 [![Gmail Badge](https://img.shields.io/badge/-Felipebertuli@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipebertuli@gmail.com)](mailto:felipebertuli@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/FelipeBert?label=follow&style=social)](https://github.com/FelipeBert)
